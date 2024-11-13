@@ -21,7 +21,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará os passos e recursos que u
 |Excel    | Incrível, mas sim!! Foi super importante aprender a mexer bem com excel  |
 |Power BI | Ferramenta para visualização de dados                                    |
 |Tableau  | Ferramenta para visualização de dados                                    |
-|Tableau  | ETL (Extract - Transform - Load                                          |
+|Pentaho  | ETL (Extract - Transform - Load)                                          |
 |SQL      | Linguagem para trabalhar com Banco de Dados                              |
 |Python   | Python é uma linguagem de programação                                    |
 |Github   |Plataforma de hospedagem e compartilhamento de códigos-fonte e aplicações |
