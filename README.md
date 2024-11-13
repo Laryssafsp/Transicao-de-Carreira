@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará os passos e recursos que u
 | Abr 2022    | 1º Programa de Trainee na [Blueshift Brasil](https://www.linkedin.com/company/blueshift-brasil/)| Programa de Trainee de Engenharia de Dados       |
 | Abr 2023    | 2º Programa de Trainee na [Leega Consultoria](https://www.linkedin.com/company/leegaconsultoria/)| Programa de Trainee de Engenharia de Dados      |
 | Jun 2023    | Analista de Governança de Dados na Cielo | Pela Leega, fui alocada em una empresa para a área de Governança de Dados e fui internalizada           |
-| Jul 2024    | Engenheira de Dados | Consegui minha oportunidade na área de Engenharia de Dados                                                                   |
+| Jul 2024    | Engenheira de Dados PagBank | Consegui minha oportunidade na área de Engenharia de Dados                                                                   |
 
 ## 💻 Assuntos de Estudos 📊 📚
 
