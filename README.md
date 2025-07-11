@@ -31,10 +31,15 @@ Bem-vindo ao meu repositório! Aqui você encontrará os passos e recursos que u
 
 | **Curso** | **Instituição** | **Data de Conclusão** |
 |-----------|-----------------|-----------------------|
-| **Arquiteto de Bigdata** | [XP Educação](https://www.linkedin.com/school/xpeducacao/) | Fev 2024 - Mai 2024 |
-| **Eng. de Dados** | [XP Educação](https://www.linkedin.com/school/xpeducacao/) | Jul 2024 - Out 2024 |
-| **Bootcamp Engenheiro(a) de Dados** | [XP Educação](https://www.linkedin.com/school/xpeducacao/) | Jul 2024 |
-| **Analista de Dados com Ênfase em Mercado Financeiro** | [XP Educação](https://www.linkedin.com/school/xpeducacao/) | Set 2024 |
+| **Bootcamp Savegnago - Lógica de Programação** | [DIO](https://www.dio.me) | Jul 2025 |
+| **Bootcamp Randstad - Análise de Dados!** | [DIO](https://www.dio.me) | Jun 2025 |
+| **Analista de Dados** | [XP Educação](https://www.xpeducacao.com.br/) | Jun 2025 |
+| **Microsoft 50 Anos: GitHub Copilot** | [DIO](https://www.dio.me) | Jun 2025 |
+| **Analista de Dados com Ênfase em Mercado financeiro** | [XP Educação](https://www.xpeducacao.com.br/) | Set 2024 |
+| **Arquiteto de Bigdata** | [XP Educação](https://www.xpeducacao.com.br/) | Fev 2024 - Mai 2024 |
+| **Eng. de Dados** | [XP Educação](https://www.xpeducacao.com.br/) | Jul 2024 - Out 2024 |
+| **Bootcamp Engenheiro(a) de Dados** | [XP Educação](https://www.xpeducacao.com.br/) | Jul 2024 |
+| **Analista de Dados com Ênfase em Mercado Financeiro** | [XP Educação](https://www.xpeducacao.com.br/) | Set 2024 |
 | **Engenharia de Dados com Python** | [DIO](https://www.dio.me) | Ago 2024 |
 | **Data Analytics com Power BI** | [DIO](https://www.dio.me) | Jul 2024 |
 | **Formação Spark com PySpark** | [EIA](https://www.eia.edu.br) | Jun 2024 |
@@ -43,10 +48,10 @@ Bem-vindo ao meu repositório! Aqui você encontrará os passos e recursos que u
 | **Microsoft Power BI Para Business Intelligence e Data Science** | [Data Science Academy](https://www.datascienceacademy.com.br) | Mai 2024 |
 | **SQL Moderno e Completo: Inclui Mais de 300 Atividades** | [EIA](https://www.eia.edu.br) | Mai 2024 |
 | **Python** | [DIO](https://www.dio.me) | Abr 2024 |
-| **Bootcamp Arquiteto(a) de Big Data** | [XP Educação](https://www.linkedin.com/school/xpeducacao/) | Fev 2024 |
+| **Bootcamp Arquiteto(a) de Big Data** | [XP Educação](https://www.xpeducacao.com.br/) | Fev 2024 |
 | **Power BI para Análise de Dados** | [Preditiva Analytics](https://preditiva.com.br) | Fev 2024 |
 | **Análise em Python** | [Ada Tech](https://www.ada.tech) | Jan 2024 |
-| **Arquitetura de Dados** | [XP Educação](https://www.linkedin.com/school/xpeducacao/) | Jan 2024 |
+| **Arquitetura de Dados** | [XP Educação](https://www.xpeducacao.com.br/) | Jan 2024 |
 | **Python: Manipulação de Dados com Pandas e PySpark** | [SoulCode Academy](https://www.soulcodeacademy.com) | Nov 2023 |
 | **Certificado Profissional de Análise de Dados do Google** | [Coursera](https://www.coursera.org) | Set 2023 |
 | **Governança de Dados, MDM e Qualidade de Dados com LGPD** | [CS Treina](https://www.cstreina.com.br) | Set 2023 |
@@ -56,7 +61,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará os passos e recursos que u
 | **AWS Certified Cloud Practitioner** | [Amazon Web Services (AWS)](https://aws.amazon.com) | Jul 2023 |
 | **Fundamentos AWS** | [Escola da Nuvem](https://www.escoladanuvem.com) | Jul 2023 |
 | **Governança de Dados** | [Udemy](https://www.udemy.com) | Jun 2023 |
-| **Engenharia de Dados** | [XP Educação](https://www.linkedin.com/school/xpeducacao/) | Mai 2023 |
+| **Engenharia de Dados** | [XP Educação](https://www.xpeducacao.com.br/) | Mai 2023 |
 | **Desenvolvimento de Habilidades: Pensamento Crítico e Analítico** | [Grupo Voitto](https://www.grupovoitto.com.br) | Mar 2023 |
 | **Formação Python Developer** | [DIO](https://www.dio.me) | Mar 2023 |
 | **Master DAX - Power BI orientado a projeto** | [Udemy](https://www.udemy.com) | Mar 2023 |
